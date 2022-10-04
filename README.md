@@ -1,0 +1,2 @@
+# semm
+# tatil-proje
